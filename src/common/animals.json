@@ -258,7 +258,9 @@
         "turtle"
     ],
     "u": [
-        "unicorn"
+        "unicorn",
+        "uakari",
+        "urchin"
     ],
     "v": [
         "vampire bat",
@@ -281,7 +283,8 @@
         "wren"
     ],
     "x": [
-        "x-ray tetra"
+        "x-ray tetra",
+        "xenomorph"
     ],
     "y": [
         "yak",
@@ -289,6 +292,9 @@
     ],
     "z": [
         "zebra",
-        "zebra shark"
+        "zebra shark",
+        "zebu",
+        "zorse",
+        "zonkey"
     ]
 }
